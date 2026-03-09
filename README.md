@@ -1,4 +1,11 @@
 # jenkins-java-calculator-ci-cd
+# Jenkins CI/CD Pipeline – Java Calculator Project
+
+![Build Status](https://img.shields.io/badge/Jenkins-Build%20Passing-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Maven](https://img.shields.io/badge/Maven-Build%20Automation-C71A36)
+![JUnit](https://img.shields.io/badge/Tests-JUnit5-success)
+![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-yellow)
 
 # Jenkins CI/CD Pipeline — Java Calculator Project
 
